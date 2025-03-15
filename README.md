@@ -9,7 +9,7 @@
 
 <!-- 添加居中图片 -->
 <div align="center">
-    <img src="./image/b_a2e145ad9898261c75c7d1de90135dcc.png" alt="Centered Image" width="200" height="200" style="border-radius: 50%;"/>
+    <img src="image/b_a2e145ad9898261c75c7d1de90135dcc.png" alt="Centered Image" width="200" height="200" style="border-radius: 50%;"/>
 <h1 align="center">Hi 👋, I'm ATT Zhu</h1>
 <h3 align="center">A passionate frontend developer from Chinese</h3>
 
