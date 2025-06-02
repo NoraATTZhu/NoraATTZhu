@@ -3,7 +3,7 @@
  * @Author: ATT Zhu
  * @Date: 2025-03-11 20:08:45
  * @LastEditors: zhuying
- * @LastEditTime: 2025-05-26 16:24:39
+ * @LastEditTime: 2025-06-02 16:50:33
  * @Slogan: 無限進步
 -->
 
@@ -16,7 +16,7 @@
 - 🔭 I hope to find a job I like in a city by the sea
 
 
-- 📫 How to reach me **ATT_Zhu@foxmail.com**
+- 📫 How to reach me **audreyatt@foxmail.com**
 
 - ⚡ Fun fact **I'm just a college student, but I hope to learn more here.**
 
